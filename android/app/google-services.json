@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1037673206140",
+    "project_id": "letsss-chat",
+    "storage_bucket": "letsss-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037673206140:android:a2f76ca6d4bc2c65f694f9",
+        "android_client_info": {
+          "package_name": "com.yashwant.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037673206140-fb8u9k8avc4hhhscvf5m65hjbcv7njf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDAMS4iRZAAsOyGMA23dB1zR_iL9k3_s0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037673206140-fb8u9k8avc4hhhscvf5m65hjbcv7njf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

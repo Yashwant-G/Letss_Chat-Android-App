@@ -1,0 +1,235 @@
+{
+   "checksum": "f29983e3bdc523ad2afa8e2b7593813f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13141988022698507",
+            "guid": "8a7dbebb-cf88-47a2-9b95-fc65cef8bdcf",
+            "id": "20",
+            "name": "Instalikes",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://takipcivar.com/login"
+         }, {
+            "date_added": "13234977804000063",
+            "guid": "f601b9ae-e0d9-4478-b776-b7fe1f681e06",
+            "id": "21",
+            "name": "Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13234977804009315",
+            "guid": "5c0928d4-56d1-4c77-90c3-7e6d3e2803fc",
+            "id": "22",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13231165666787458",
+            "guid": "885ffefe-f260-4abe-80e3-dbe82b9d35c7",
+            "id": "23",
+            "name": "News",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://news.google.com/"
+         }, {
+            "date_added": "13231165668038418",
+            "guid": "f71dc518-8382-412b-8ab4-fd6f7ec7d073",
+            "id": "24",
+            "name": "Translate",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://translate.google.com/"
+         }, {
+            "date_added": "13234977804014476",
+            "guid": "3584c529-5bfb-4145-81a5-bc1c9915bb47",
+            "id": "25",
+            "name": "Maps",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13237624426534141",
+            "guid": "072038ff-a01b-491b-950a-8c5286f57531",
+            "id": "26",
+            "name": "Instagram",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.instagram.com/"
+         }, {
+            "date_added": "13238930182860644",
+            "guid": "d7a97bc2-1be5-4f1b-be24-2cf59b9d7065",
+            "id": "27",
+            "name": "TheMoviesFlix.com | Movies flix | moviesflix-300mb Movies, 480p Movies ~ themoviesflix.com,moviesflix.com,moviesflix,movies flix,MovieskiDuniya, 720p Movies, 1080p movies, Dual Audio Movies, Hindi Dubbed Series, Hollywood Movies",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://themoviesflix.com/"
+         }, {
+            "date_added": "13241553128375654",
+            "guid": "5168596a-2e96-4456-ba33-8253f44e2791",
+            "id": "28",
+            "name": "MoviezAddiction - Download Movies & Watch Online",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://moviezaddiction.site/"
+         }, {
+            "date_added": "13300369943213658",
+            "guid": "35d6ca67-cf80-4cd5-8faf-9c2ccff7e55a",
+            "id": "5",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/dell.html"
+         } ],
+         "date_added": "13300369942941137",
+         "date_modified": "13300371145312477",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13300369942941140",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13213349455815723",
+            "guid": "34a1b6d3-0d4e-4fd5-83f8-9cefb2acf73c",
+            "id": "8",
+            "name": "Python Hero: Full Course with Projects ||Hindi/Urdu|| | Udemy",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.udemy.com/course/python-guru-complete-course-projects-hindi-urduhd/learn/lecture/15439610#content"
+         }, {
+            "date_added": "13229451703610906",
+            "guid": "ac956e75-d9e4-4eb6-a01c-880d97116147",
+            "id": "9",
+            "name": "movie",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://fmovies.to/film/mirzapur.ykz5p/3r43j3r"
+         }, {
+            "date_added": "13230365001280419",
+            "guid": "39959308-e8ce-4a61-b28c-8abe015ead65",
+            "id": "10",
+            "name": "123Mkv ",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://123mkv.top/"
+         }, {
+            "date_added": "13235581625609776",
+            "guid": "cb7ee48f-e5f8-488c-8a6b-fde84ce19d05",
+            "id": "11",
+            "name": "Yesmovies - Watch FREE Movies Online & TV shows",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www2.yesmovieshd.to/?__cf_chl_jschl_tk__=b09e21ae47ed366cf22df5ac84db1dbc31b3535e-1591108002-0-AfrWy7F1Igs2-6tbScy8q5aEpiLD5ZD3SljDBcJRy2Kme77D3caP-iUoToBTLGTHAu_WrnGSJthK1LzrIPitn9PXcfZkD_W0pi_QwGYbHi0aTiYiyZFuy8HzPMz2u7fj60hhBlGvpQz48wVdlpgXglTUvmEeAxXhYaUZ_KFd0ibqAJpUGX_cQMvYzRLnVaaAVvxaAdcaa0gg8VOipIFWus_KmtNlucobafJsm_VUjGEiY0P4JaNayagL4ow6jh5fM1G8PCAeIWS52eXlMFBMFKo"
+         }, {
+            "date_added": "13235906424944425",
+            "guid": "80db902b-be6c-442a-889f-dda573c3da1c",
+            "id": "12",
+            "name": "HDMoviesHub | HubFlix - Bollywood Movies, 300mb Movies, HD Movies, 480p Movies, 720p Movies",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://hdmovieshub.co.in/"
+         }, {
+            "date_added": "13236676086504811",
+            "guid": "793990c2-085c-4a6f-be78-e343c230da95",
+            "id": "13",
+            "name": "FilmyGod - 300mb Hollywood Hindi 720p 480 Dual Audio movies, Download 300mb movies, 480p dual audio movies, 1080p movies, 2019 Download Dual Audio Movies",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://god3.sirwap.in/page/2/"
+         }, {
+            "date_added": "13241629220883210",
+            "guid": "8d97d9e7-8382-45b3-94d1-263e532372f6",
+            "id": "14",
+            "name": "MoviesFlix | Movies Flix - moviesflixpro.org, moviesflix , moviesflix pro, movies flix - moviesflix, movies flix, movies ki duniya, themoviesflix, the movies flix, 300Mb movies, 720p movies, 480p movies, dual audio movies - Download movies, moviesflix",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://moviesflixpro.org/"
+         }, {
+            "date_added": "13229451703610906",
+            "guid": "cede40fb-4d6c-4985-9bdd-0d8f047d22ae",
+            "id": "15",
+            "name": "Fmovie",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://fmovies.coffee/"
+         }, {
+            "date_added": "13241803115225535",
+            "guid": "c38fccae-96a9-4386-85e6-a8df91edaabd",
+            "id": "16",
+            "name": "FilmyGod - 300mb Hollywood Hindi 720p 480 Dual Audio movies, Download 300mb movies, 480p dual audio movies, 1080p movies, 2019 Download Dual Audio Movies",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://filmyhut.in/"
+         }, {
+            "date_added": "13241803119998321",
+            "guid": "5ff6ef9e-cf40-4343-b958-c28fd9e31277",
+            "id": "17",
+            "name": "480p & 720p mkv Movies Download 2020 | Mkvking Official",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mkvking.com/"
+         }, {
+            "date_added": "13241803125846991",
+            "guid": "a45c2fbf-5e27-4b7e-b66d-60e1b27c51b5",
+            "id": "18",
+            "name": "BonsaiHD | Quality that Matters",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://bonsaihd.online/"
+         }, {
+            "date_added": "13246876359707019",
+            "guid": "79f9263c-795c-4a86-8950-7f758f6f15e6",
+            "id": "19",
+            "name": "WrapCart",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.wrapcart.com/?fbclid=PAAaaj-UVtsyD-nQgWkmRTbhLsBCvoyXp_DInrAbZ37yDET3lxpI2dxWEnRBc"
+         } ],
+         "date_added": "13300369942941148",
+         "date_modified": "13246876359707019",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Ci4KDgiIgQISCED9L4uBAQAAEgAgASoYMFhiVW04azdLeDhhV2FJRmQwdngrdz09EqgBCBwSowEKHFQ1ai9XM0ZPd2FTUzNrdW0yaVF1bVFGdE5tdz0SJDZjYTI5ZDViLWU0MTgtNDkyYi05ODkwLWQ3OGI2MTAxNjVmYhgAIAIoAjDssMDZmDA47ai+mL4uQMPgvtmYMEocR2x2OWpvZnY3eHF4SU8rS0ZSeFRLUUhYbUpZPVofIh3/dExmQkZTVFgxSWovTDlDK0ljNFN3ZnZOb1J3PWWCwCo1EqgBCAwSowEKHGNqS1FKNlEySDNuV1NIMzlYZHFQS3dLdHh0QT0SJGI1ODc1YzNiLThhZGMtNDZlMi05OTVlLTFkYjNjOGE4Y2U2MBgAIAAoADCBp76Yvi446ai+mL4uQOmovpi+LkocdTFlV2dLZXRlTVdxOFB6STdSUnlxR0N5bjRzPVofIh33RE5ycVFDWnNzRk1CNTRNV2lJOXhMZVdwV0pJPWUAAAAAEqgBCBkSowEKHHVLc20rYU9qdFhqcm1lejB6TWVwd09vODBiaz0SJDNlNDhmOTc2LTg0MGUtNDRlMy1iZGU5LTE5ZGMyZTZjZDYzMRgAIAIoAjDssMDZmDA47Ki+mL4uQL/gvtmYMEocQWllRXpVQk9WbFFvYmlyUG93SUxrNEVPT3dvPVofIh37c3Q4ak1vRGtSdStIWWJqL3dzVUhGT3d6K2JVPWWk++iYEqgBCBUSowEKHENQQitRY3ROVGxMSmFCVzRxb3R6OU05aEZLaz0SJGZkMmY3YmY3LTA1MjktNDhjNS1hZjgzLWU4MmYxODg3NjU5YhgAIAIoAjDssMDZmDA46qi+mL4uQLfgvtmYMEocdm9sb2ZlSFNiRnVXMTB5MW9Fa3NLdTBGZGhBPVofIh21TWtpTFpwT2RpYUlRMnlyUDdxbW5EcUxEUkk4PWUH+8bXEqcBCBQSogEKHHkrY0NQYVdyWlNqNlcxWW0xb0R3R3JRZTlXRT0SJDk3ZGU2YmM3LTE2MzctNDhjYy1hOWFmLWQ3OTI4NzkxMTc3NBgAIAIoAjDssMDZmDA46qi+mL4uQLbgvtmYMEocWVpENE5OVzVQYkFPWE5maEZiT2xVK1d0aTdjPVoeIhxrZnY5UlM0OXFEeDN4N1BUMENDajFKS0VCaEU9Ze+E+igSiQEIARKEAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkZjMwOTUxYzAtYWE5Yi01MGY2LThlYzYtOWI1NjcwMjRhYWU2GAAgACgAMIrVvZi+Lji+072Yvi5AvtO9mL4uShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKoAQgWEqMBChxjR2dDMkg3UEk3eVgzMVhzWGtwdm9zbGxkcVk9EiQyNGViNjgwNy1lNmM3LTQ0YTItOTU3NC1kZjcxNDkxNTA2MWQYACACKAIw7LDA2ZgwOOuovpi+LkC44L7ZmDBKHHVFQTZTTEkxYi9GNkc0YS9hVDg0THhpdDVWYz1aHyId2nRQUVdFZDNCNjhJb3FSRGhUNHNtMXRjQ3VwMD1lOPk5MxKoAQgQEqMBChxITDlwS2NkWlpWb2JTcEVhRUFOSmYrYmFTRlE9EiRlNDhlMWZiMy0xYjUxLTQzZDEtOTFhZS00NTFkZTdjMDQxZjgYACAAKAAw3KqR0+YuOMXNktPmLkDFzZLT5i5KHHlKcXZ1cEF1bjlKNEl4Zi96S3VNcXAwNlNZTT1aHyId/09sa3hBTUFHd1Y2ak5Rcm5ESmRGbmI1VlFvOD1ldQdZzhKnAQgIEqIBChx2bjNZazFnWWYvSGE3bXFpMHBYc1FieXJTNlE9EiQxOWM5MjY2MS03ODM0LTQ3YmQtYmVjMS1iNGRmOGQyNWNjZGUYACAAKAAw66K+mL4uOOmovpi+LkDpqL6Yvi5KHHVrbFU3WjZ0c3k3RG1walh0dVFZK1RwSGQyVT1aHiIccE1BQi81VmhHNlZMdWhuZ2Z6ZFBvejNCRStnPWUAAAAAEqgBCBoSowEKHFJ4SDA4NFNmQ2lreEpjcmNobzRrTlh5aEdZbz0SJDEzMzZiNmU1LTEyNWMtNDZlNi1hNjczLTBkNDEwOGZlZDRhYRgAIAIoAjDssMDZmDA47Ki+mL4uQMHgvtmYMEocUWFyaHBEemRWSWJaUlRHTmczY0NMMGszMWVVPVofIh39SDV1ZXRTVUdwR0R6MUNRckVUOEFUc09UQkdZPWVIlFviEqgBCA8SowEKHHdEWTdsTFdpWXpSVWZhYzdoVTVwMzlpSkRwQT0SJDRkYjg0MDViLThkNzAtNGNmZC05NmVmLTA5ODY0YmI2NjFlMxgAIAAoADCNppHT5i44xM2S0+YuQMTNktPmLkocSHpwUzExaUxrd3pKUDJHV0l5Y2RERDFyRlJVPVofIh3+OUdmbkdJc3h1SVk4Mm14UE90Q0xLVGxvQmpJPWW4k97hEqgBCBgSowEKHERDWmI3V1BhY0U1T1cvM0JML0w2bVBuY1RNQT0SJGExODg5MjkzLTg1MWYtNDI4My05MTllLWEzNzVlMjE1MzU0ZhgAIAIoAjDssMDZmDA47Ki+mL4uQLrgvtmYMEocK0RNdjRjckFYbHFvOGpkRkFzaVhTK0g3Vk5vPVofIh32ZHc1L2gzc1A0MElWWjF6K2VxejREVlBhTUNnPWVcKvkqEqgBCA4SowEKHGpXZkdGamMxaHNYSjY5TWM1Ri9KSGlMQWhiOD0SJDBlYTMwNTMxLThmZWMtNDFjNS04MjcyLTFmOGY5NGVjMTliNhgAIAAoADD/pr6Yvi446ai+mL4uQOmovpi+LkocNWFLcWVjZ0drWFZ5ZzY0UmEyRUY5VUlqYjB3PVofIh39SFFYY1E3QmNvN2RFQklROGxWZCtmaDJkSnd3PWUAAAAAEqgBCA0SowEKHE9MY0lPTGRlUDRIUmovU05Vd0M0SG92ZHFTZz0SJDczNGY4Mjk3LWYyNzUtNDUwNi04ZjNlLTU2NzcwMjI5NzI3MRgAIAAoADDvor6Yvi446ai+mL4uQOmovpi+LkocRXJqNHdZMURxNW1GTm0zU1hrZXZUbUp0cjlVPVofIh37cGRSTDNibk1KVlVpeFA5N1VWUmJwTE50ZCtRPWUAAAAAEqkBCBISpAEKHFhQUE9rczZKcWFQMXk0MHlFZFQ3ZlpXRzV0az0SJDQyMTk5OGM0LWYyNzYtNDgxZi04YmJiLTc5NDhmZjg0YWQxMBgAIAAoADCOppHT5i44xc2S0+YuQMXNktPmLkocYnFCQUc0blNia1VGYnV4WFp6WnM2aTZyNlV3PVogIh7/001VWEYvb2JBUXhJZE9XbVpWN3hpVXBLM3R4TT1lAAAAABKoAQgLEqMBChwwRlp5QndBMjMwSXBlY0JhcjdEbkh5MzN2OFE9EiRhNTk5ZThiNy01NGRmLTQ0MWYtYjEwYy0zZDdhNTkzMDFiZjgYACAAKAAw/qa+mL4uOOmovpi+LkDpqL6Yvi5KHHRCcGNBZkVCSWFDVDNhMC9pSXhhbTk0b0I5RT1aHyId7mppRTU3eXJqK0Z5dzA2UFp1YzRJOEVzTUpxND1lAAAAABKJAQgDEoQBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQ5NzIwNzFkYy1lZDc3LTU4NmItOWRlNS0yODRmMWNlMTAzM2EYACAAKAAwj9W9mL4uOL7TvZi+LkC+072Yvi5KHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEqgBCAoSowEKHE5XOTI4K2FtejAvK2tmcDBoU0dYbXJzTE9OOD0SJDQ5ZWU5OWM4LWZmMGQtNGFhNC1iYjVhLTExNDFmNzAyNTA4MRgAIAAoADDyqr6Yvi446ai+mL4uQOmovpi+LkocNEpoQXlZeGZmcTBBell1VTVodUJWNExYeTZjPVofIh3cMlk0ZDZsT0hjempMUHBWUmMvTzRLelZJT3dnPWUAAAAAEqgBCBsSowEKHFE5ZFRzZytvZE8yVFV0U2dRWU9JdVZ6TGNzUT0SJGIzOTQ3N2UzLWY3OTctNGJiYS1iYTZiLTM5OWVhODNkOWNjORgAIAIoAjDssMDZmDA47ai+mL4uQMLgvtmYMEocaEw4a2hpZUxEelREcnltR1NsaGhGRUZaa3d3PVofIh3+bjljOUdIRWd0N1JqWStSZ3JnRXE5U21JK21FPWViHmoKEqgBCBcSowEKHHRnMnRra25YS3FXNnJLaVRjak1mUnkvR1Y4bz0SJDg2YjMyMjVhLTFhYTEtNDM4Mi05YWRlLTU4YmEzYWEzYTMwNBgAIAIoAjDssMDZmDA466i+mL4uQLngvtmYMEocL3RkbndpRUJCREp0TDFxc3NjNGQ1ZU9HOWRVPVofIh3tK3p1UUxkRndkY052ejZYR0JOb3pndWxzSjdnPWW3Ty2pEokBCAIShAEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJGNhYjU4MThlLTg3MmQtNTIwMC1iNGFlLTA2Yjc0M2JkY2NlYxgAIAAoADCL1b2Yvi44vtO9mL4uQL7TvZi+Lkocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASqQEIExKkAQocc1hVdERoSHk2aDJmblprM0hqRWhXUkZlYXo4PRIkZWEzZWRlMDItYjVkOC00NzkzLThmNDgtYjE0OTI2ODM1Yzc4GAAgACgAMIqmkdPmLjjFzZLT5i5Axc2S0+YuShxORkUwNk9vSjAvOUEwV1pDbCtSZDJ1ektqZk09WiAiHv/pOFo3R0JaMjJzV3VrMEowVGpHdEl2aHBQdWE4PWXtcphJEqgBCAkSowEKHHRTN1V5aDlzQ1l0YXVOKzc1ZW1zTy9DMytSQT0SJGE2NTZmNjMyLTUxZDctNGIxYi1hMTJjLTdlMThkMDgzYzhlZhgAIAAoADCCp76Yvi446ai+mL4uQOmovpi+LkocSlNjVXRUVzQ5S2ljTEtGZzNZK1RjNithWk9BPVofIh24Zisyck1TbVpzVnBtNUd5MHpRMFVXQ1pFMWtVPWUAAAAAEqkBCBESpAEKHGs3Wkg4ZmZvM05iS1hZemVjSnpZOGZscW1ndz0SJDhmYzNhYjdmLWUyMmItNDNhOS1iMDc0LWU0NGE1NmRiMGI4MhgAIAAoADCMppHT5i44xc2S0+YuQMXNktPmLkoccldmRzdWRjg3dFBBWXdoUGM4N0NyZWxGcktBPVogIh7/pzBUSUFXTUpKOThKQ1VySFZOelp4d0ZkTjZFYz1l3U78yzAAOAA=",
+   "version": 1
+}
